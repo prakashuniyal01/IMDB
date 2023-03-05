@@ -1,4 +1,3 @@
-"use strict";
 (function () {
   const title = document.getElementById("title");
   title.innerHTML = localStorage.getItem("movieName");
